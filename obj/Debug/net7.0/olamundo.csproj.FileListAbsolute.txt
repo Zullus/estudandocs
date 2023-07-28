@@ -1,0 +1,15 @@
+C:\Users\4905090539\projetos\treinaweb\olamundo\bin\Debug\net7.0\olamundo.exe
+C:\Users\4905090539\projetos\treinaweb\olamundo\bin\Debug\net7.0\olamundo.deps.json
+C:\Users\4905090539\projetos\treinaweb\olamundo\bin\Debug\net7.0\olamundo.runtimeconfig.json
+C:\Users\4905090539\projetos\treinaweb\olamundo\bin\Debug\net7.0\olamundo.dll
+C:\Users\4905090539\projetos\treinaweb\olamundo\bin\Debug\net7.0\olamundo.pdb
+C:\Users\4905090539\projetos\treinaweb\olamundo\obj\Debug\net7.0\olamundo.csproj.AssemblyReference.cache
+C:\Users\4905090539\projetos\treinaweb\olamundo\obj\Debug\net7.0\olamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4905090539\projetos\treinaweb\olamundo\obj\Debug\net7.0\olamundo.AssemblyInfoInputs.cache
+C:\Users\4905090539\projetos\treinaweb\olamundo\obj\Debug\net7.0\olamundo.AssemblyInfo.cs
+C:\Users\4905090539\projetos\treinaweb\olamundo\obj\Debug\net7.0\olamundo.csproj.CoreCompileInputs.cache
+C:\Users\4905090539\projetos\treinaweb\olamundo\obj\Debug\net7.0\olamundo.dll
+C:\Users\4905090539\projetos\treinaweb\olamundo\obj\Debug\net7.0\refint\olamundo.dll
+C:\Users\4905090539\projetos\treinaweb\olamundo\obj\Debug\net7.0\olamundo.pdb
+C:\Users\4905090539\projetos\treinaweb\olamundo\obj\Debug\net7.0\olamundo.genruntimeconfig.cache
+C:\Users\4905090539\projetos\treinaweb\olamundo\obj\Debug\net7.0\ref\olamundo.dll
