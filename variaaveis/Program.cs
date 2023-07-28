@@ -35,3 +35,4 @@ int idade3 = Convert.ToInt32(resposta);
 
 Console.WriteLine(idade2);
 Console.WriteLine(idade3);
+
