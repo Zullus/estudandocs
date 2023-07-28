@@ -1,0 +1,15 @@
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\bin\Debug\net7.0\tostring.exe
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\bin\Debug\net7.0\tostring.deps.json
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\bin\Debug\net7.0\tostring.runtimeconfig.json
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\bin\Debug\net7.0\tostring.dll
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\bin\Debug\net7.0\tostring.pdb
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\obj\Debug\net7.0\tostring.csproj.AssemblyReference.cache
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\obj\Debug\net7.0\tostring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\obj\Debug\net7.0\tostring.AssemblyInfoInputs.cache
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\obj\Debug\net7.0\tostring.AssemblyInfo.cs
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\obj\Debug\net7.0\tostring.csproj.CoreCompileInputs.cache
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\obj\Debug\net7.0\tostring.dll
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\obj\Debug\net7.0\refint\tostring.dll
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\obj\Debug\net7.0\tostring.pdb
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\obj\Debug\net7.0\tostring.genruntimeconfig.cache
+C:\Users\4905090539\projetos\treinaweb\olamundo\tostring\obj\Debug\net7.0\ref\tostring.dll
