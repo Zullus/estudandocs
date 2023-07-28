@@ -1,0 +1,15 @@
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\bin\Debug\net7.0\variaaveis.exe
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\bin\Debug\net7.0\variaaveis.deps.json
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\bin\Debug\net7.0\variaaveis.runtimeconfig.json
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\bin\Debug\net7.0\variaaveis.dll
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\bin\Debug\net7.0\variaaveis.pdb
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\obj\Debug\net7.0\variaaveis.csproj.AssemblyReference.cache
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\obj\Debug\net7.0\variaaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\obj\Debug\net7.0\variaaveis.AssemblyInfoInputs.cache
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\obj\Debug\net7.0\variaaveis.AssemblyInfo.cs
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\obj\Debug\net7.0\variaaveis.csproj.CoreCompileInputs.cache
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\obj\Debug\net7.0\variaaveis.dll
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\obj\Debug\net7.0\refint\variaaveis.dll
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\obj\Debug\net7.0\variaaveis.pdb
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\obj\Debug\net7.0\variaaveis.genruntimeconfig.cache
+C:\Users\4905090539\projetos\treinaweb\olamundo\variaaveis\obj\Debug\net7.0\ref\variaaveis.dll
